@@ -2,8 +2,8 @@ package com.mine.cappella.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
+val colorPrimary = Color(0xFF0018AD)
+val colorSecondary = Color(0xFFE6E8F7)
 val Pink80 = Color(0xFFEFB8C8)
 
 val Purple40 = Color(0xFF6650a4)
