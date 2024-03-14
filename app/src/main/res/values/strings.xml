@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Cappella</string>
+    <string name="profile_title">Baby\'s profile</string>
+    <string name="update_profile_text">Change profile picture</string>
+    <string name="avatar">avatar</string>
+    <string name="name_nickname">Name/ Nickname</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="gender">Sex</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="continue_text">Continue</string>
+    <string name="name">Name</string>
+    <string name="profile_image">profile image\n</string>
 </resources>
